@@ -1,0 +1,6 @@
+{
+  "name": "Topological Morphogenesis Engine",
+  "description": "Interactive simulation platform for the paper 'Topological Stabilization of Domain Defects and Emergence of the Mass Hierarchy in Pregeometric Hypergraphs', integrating BF couplings, Seifert surfaces, and theoretical physics graphical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
